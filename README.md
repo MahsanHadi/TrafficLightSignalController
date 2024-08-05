@@ -8,4 +8,4 @@ Light B: Controls the traffic flow between West and East.<br/>
 2) Both lights cannot be green simultaneously.<br/>
 3) Both lights cannot be yellow simultaneously.<br/>
 4) The green color has to last for 6 seconds to let cars pass.<br/>
-5) The yellow color has to last for 1 second to alert drivers not to pass<br/>
+5) The yellow color has to last for 1 second to alert drivers not to pass.<br/>
